@@ -1,2 +1,2 @@
-idf_component_register(SRCS "tusb_sample_descriptor.c"
+idf_component_register(SRCS "tusb_sample_midi.c"
                        INCLUDE_DIRS . ${COMPONENT_DIR})
